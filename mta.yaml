@@ -6,4 +6,3 @@ provider: SAP Sample generator
 modules:
   - name: piper.node.hello.world
     type: nodejs
-    path: .
